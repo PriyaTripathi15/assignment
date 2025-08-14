@@ -35,7 +35,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saran-mani/intervue-poll-frontend.git
+   git clone https:https://github.com/PriyaTripathi15/assignment/intervue-poll-frontend.git
    cd intervue-poll-frontend
    ```
 
