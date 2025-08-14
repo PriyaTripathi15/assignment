@@ -19,7 +19,7 @@ This project is a real-time polling system that allows teachers to create live p
 ## Tech Stack
 - **React** (with Vite for fast development)
 - **Socket.IO** (for real-time communication)
-- **Bootstrap** (for styling)
+- **TailwindCSS** (for styling)
 - **Session Storage** (for session management)
 
 ---
