@@ -7,7 +7,7 @@ A real-time polling system built with React frontend and Node.js backend.
 - **Teacher Role**: Create polls with multiple choice questions and timers
 - **Student Role**: Participate in live polls and see real-time results
 - **Real-time Updates**: Live results using Socket.IO
-- **Responsive Design**: Modern UI with Bootstrap
+- **Responsive Design**: Modern UI with TailwindCSS
 
 ## Setup Instructions
 
