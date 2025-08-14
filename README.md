@@ -1,4 +1,4 @@
-# Polling App - Frontend
+# Polling App 
 
 ## Overview
 The **Polling App** is a real-time classroom polling system that allows teachers to create live polls and students to participate instantly.  
